@@ -2,7 +2,7 @@
 
 This is double pendulum simulation using rust. The drawing was done with [`macroquad`](https://github.com/not-fl3/macroquad).
 
-![Demo](./assets/demo.gif)
+![Demo](./blob/DoublePendulum.gif)
 
 
 ## Running
