@@ -9,6 +9,6 @@ This is double pendulum simulation using rust. The drawing was done with [`macro
 
 [Install rust](https://www.rust-lang.org/tools/install), clone this repo, then:
 ```powershell
-cd pendulum
+cd Double_Pendulum
 cargo run
 ```
