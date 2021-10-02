@@ -1,6 +1,6 @@
 # Double Pendulum
 
-This is double pendulum simulation using rust. The drawing was done with [`macroquad`](https://github.com/not-fl3/macroquad).
+This is a double pendulum simulation using rust. The drawing was done with [`macroquad`](https://github.com/not-fl3/macroquad).
 
 ![Demo](./blob/DoublePendulum.gif)
 
